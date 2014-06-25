@@ -1,16 +1,19 @@
 InfinityCloudEngine
 ===================
-#Developer Info
-###Install:
+##Developer Info
+###Dependency Install:
+- Install node from http://nodejs.org/download/
+
+####Install:
 ```
 git clone <repo_url>
-cd <repo_download_dir>
+cd <repo_url_downloaded_dir>
 [sudo] npm install
 bower install
 ```
 
-###Run:
+####Run:
 `grunt serve`
 
-###Compile and test for Release:
+####Compile and test for Release:
 `grunt`
