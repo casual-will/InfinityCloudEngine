@@ -1,10 +1,10 @@
 Infinity Cloud Engine (ICE)
 ===================
 ##Developer Info
-###Dependency Install:
+####Dependency Install:
 - Install node from http://nodejs.org/download/
 
-####Install:
+####Project Install:
 ```
 git clone <repo_url>
 cd <repo_url_downloaded_dir>
@@ -12,8 +12,8 @@ cd <repo_url_downloaded_dir>
 bower install
 ```
 
-####Run:
+####Project Run:
 `grunt serve`
 
-####Compile and test for Release:
+####Project Compile and test for Release:
 `grunt`
