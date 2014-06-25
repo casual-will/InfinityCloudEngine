@@ -1,4 +1,4 @@
-InfinityCloudEngine
+Infinity Cloud Engine (ICE)
 ===================
 ##Developer Info
 ###Dependency Install:
