@@ -17,3 +17,5 @@ bower install
 
 ####Project Compile and test for Release:
 `grunt`
+
+Blender setup: https://github.com/mrdoob/three.js/tree/master/utils/exporters/blender
