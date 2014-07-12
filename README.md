@@ -19,3 +19,5 @@ bower install
 `grunt`
 
 Blender setup: https://github.com/mrdoob/three.js/tree/master/utils/exporters/blender
+
+Stream Programming: https://github.com/substack/stream-handbook#introduction
