@@ -1,5 +1,5 @@
 {
-  "name": "clean-test",
+  "name": "InfinityCloudEngine",
   "private": true,
   "dependencies": {
     "bootstrap": "~3.0.3",

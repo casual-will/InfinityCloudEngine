@@ -1,5 +1,6 @@
 nbproject/private
 nbproject
+.project
 *.pyc
 node_modules
 dist

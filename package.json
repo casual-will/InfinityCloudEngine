@@ -1,6 +1,11 @@
 {
-  "name": "clean-test",
+  "name": "InfinityCloudEngine",
   "version": "0.0.0",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liambluebox/InfinityCloudEngine"
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
